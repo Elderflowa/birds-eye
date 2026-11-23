@@ -21,15 +21,6 @@
       "beta": false,
       "versions": [
         {
-          "version": "1.2.0.14",
-          "buildVersion": "14",
-          "date": "2026-11-23",
-          "localizedDescription": "Unsigned IPA, sign it with Feather.",
-          "downloadURL": "https://github.com/Elderflowa/main-menu/releases/download/latest/MainMenu.ipa",
-          "size": 257895,
-          "minOSVersion": "17.0"
-        },
-        {
           "version": "1.2.0",
           "buildVersion": "15",
           "date": "2026-11-23",
@@ -39,10 +30,10 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "1.2.0.14",
+      "version": "1.2.0",
       "versionDate": "2026-11-23",
-      "versionDescription": "Unsigned IPA, sign it with Feather.",
-      "downloadURL": "https://github.com/Elderflowa/main-menu/releases/download/latest/MainMenu.ipa",
+      "versionDescription": "## Main Menu 1.2.0\n\nA controller-first game launcher for iPhone, built for landscape.\n\n### What's new\n- **Console-style home.** A single row of game tiles, big poster art, and the selected game's name and launch method underneath.\n- **Game art from SteamGridDB.** Paste a free API key in Settings and posters are fetched automatically. In a game's editor, \"Choose game art\" lets you search a title and pick a different poster.\n- **Search the whole App Store** from the Library to add any game, not only the ones in the URL scheme list.\n- **External display.** Plug the phone into a monitor (USB-C or ",
+      "downloadURL": "https://github.com/Elderflowa/main-menu/releases/download/v1.2.0/MainMenu.ipa",
       "size": 257895
     },
     {
