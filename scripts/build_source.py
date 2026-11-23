@@ -143,6 +143,10 @@ def main():
             continue
         icon = None
         icon_checked = False
+        has_ipa = lambda r: any(x["name"].lower().endswith(".ipa") for x in r["assets"])
+        stable = [r for r in releases if not r["draft"] and re.match(r"v?\d", r["tag_name"]) and has_ipa(r)]
+        if stable:
+            releases = [r for r in releases if r["tag_name"].lower() not in ("latest", "nightly")]
         for rel in releases:
             if rel["draft"] or (rel["prerelease"] and not CFG.get("include_prereleases")):
                 continue
