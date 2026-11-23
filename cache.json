@@ -69,11 +69,11 @@
     "name": "Traveler's Guide",
     "version": "1.0"
   },
-  "784921800:233154": {
-    "build": "1",
+  "784934005:233156": {
+    "build": "8",
     "bundle": "dev.elder.mainmenu",
     "minos": "17.0",
     "name": "Main Menu",
-    "version": "1.0"
+    "version": "1.0.8"
   }
 }
