@@ -1,0 +1,45 @@
+name: Update source
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+  repository_dispatch:
+    types: [release]
+  push:
+    branches: [main]
+    paths: [config.json, scripts/**]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-source
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build source.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/build_source.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "birds-eye[bot]"
+          git config user.email "birds-eye[bot]@users.noreply.github.com"
+          git add source.json cache.json
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update source"
+            git push
+          fi

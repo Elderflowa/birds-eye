@@ -1,0 +1,41 @@
+{
+  "name": "Birds Eye",
+  "identifier": "dev.elder.birdseye",
+  "subtitle": "Every IPA release from my GitHub repos",
+  "description": "Automatically built from the releases of all public repositories that publish an .ipa file.",
+  "iconURL": "https://raw.githubusercontent.com/Elderflowa/birds-eye/main/assets/icon.png",
+  "website": "https://github.com/Elderflowa/birds-eye",
+  "tintColor": "0A84FF",
+  "sourceURL": "https://raw.githubusercontent.com/Elderflowa/birds-eye/main/source.json",
+  "apps": [
+    {
+      "name": "Traveler's Guide",
+      "bundleIdentifier": "com.travelersguide.app",
+      "developerName": "Elderflowa",
+      "subtitle": "IPA for dailies",
+      "localizedDescription": "IPA for dailies",
+      "iconURL": "https://raw.githubusercontent.com/Elderflowa/GenshinDaily/main/build/icon.png",
+      "tintColor": "0A84FF",
+      "screenshotURLs": [],
+      "permissions": [],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-11-18",
+          "localizedDescription": "Fixed bidirectional test connection between desktop and phone",
+          "downloadURL": "https://github.com/Elderflowa/GenshinDaily/releases/download/v1.3.4/TravelersGuide-v1.3.4.ipa",
+          "size": 1067594,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "version": "1.0",
+      "versionDate": "2026-11-18",
+      "versionDescription": "Fixed bidirectional test connection between desktop and phone",
+      "downloadURL": "https://github.com/Elderflowa/GenshinDaily/releases/download/v1.3.4/TravelersGuide-v1.3.4.ipa",
+      "size": 1067594
+    }
+  ],
+  "news": []
+}

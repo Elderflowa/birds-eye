@@ -1,0 +1,16 @@
+{
+  "owner": "Elderflowa",
+  "name": "Birds Eye",
+  "identifier": "dev.elder.birdseye",
+  "subtitle": "Every IPA release from my GitHub repos",
+  "description": "Automatically built from the releases of all public repositories that publish an .ipa file.",
+  "tintColor": "0A84FF",
+  "include_forks": false,
+  "include_archived": false,
+  "include_prereleases": true,
+  "max_versions": 5,
+  "max_ipa_mb": 600,
+  "exclude_repos": ["birds-eye"],
+  "exclude_bundles": ["com.genshindaily.app"],
+  "icon_paths": ["assets/icon.png", "icon.png", "Icon.png", "AppIcon.png", "assets/logo.png"]
+}
