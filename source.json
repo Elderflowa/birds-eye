@@ -21,20 +21,20 @@
       "beta": false,
       "versions": [
         {
-          "version": "1.0.8",
-          "buildVersion": "8",
+          "version": "1.0.10",
+          "buildVersion": "10",
           "date": "2026-11-23",
           "localizedDescription": "Unsigned IPA, sign it with Feather.",
           "downloadURL": "https://github.com/Elderflowa/main-menu/releases/download/latest/MainMenu.ipa",
-          "size": 233156,
+          "size": 257713,
           "minOSVersion": "17.0"
         }
       ],
-      "version": "1.0.8",
+      "version": "1.0.10",
       "versionDate": "2026-11-23",
       "versionDescription": "Unsigned IPA, sign it with Feather.",
       "downloadURL": "https://github.com/Elderflowa/main-menu/releases/download/latest/MainMenu.ipa",
-      "size": 233156
+      "size": 257713
     },
     {
       "name": "Traveler's Guide",
