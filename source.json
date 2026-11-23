@@ -9,6 +9,34 @@
   "sourceURL": "https://raw.githubusercontent.com/Elderflowa/birds-eye/main/source.json",
   "apps": [
     {
+      "name": "Main Menu",
+      "bundleIdentifier": "dev.elder.mainmenu",
+      "developerName": "Elderflowa",
+      "subtitle": "From main-menu",
+      "localizedDescription": "Built from Elderflowa/main-menu.",
+      "iconURL": "https://raw.githubusercontent.com/Elderflowa/main-menu/main/assets/icon.png",
+      "tintColor": "0A84FF",
+      "screenshotURLs": [],
+      "permissions": [],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-11-23",
+          "localizedDescription": "Unsigned IPA, sign it with Feather.",
+          "downloadURL": "https://github.com/Elderflowa/main-menu/releases/download/latest/MainMenu.ipa",
+          "size": 233154,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "version": "1.0",
+      "versionDate": "2026-11-23",
+      "versionDescription": "Unsigned IPA, sign it with Feather.",
+      "downloadURL": "https://github.com/Elderflowa/main-menu/releases/download/latest/MainMenu.ipa",
+      "size": 233154
+    },
+    {
       "name": "Traveler's Guide",
       "bundleIdentifier": "com.travelersguide.app",
       "developerName": "Elderflowa",

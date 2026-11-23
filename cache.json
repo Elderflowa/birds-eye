@@ -1,1 +1,79 @@
-{}
+{
+  "724573102:1064564": {
+    "build": "1",
+    "bundle": "com.genshindaily.app",
+    "minos": "14.0",
+    "name": "Genshin Daily",
+    "version": "1.0"
+  },
+  "724627348:1066283": {
+    "build": "1",
+    "bundle": "com.genshindaily.app",
+    "minos": "14.0",
+    "name": "Genshin Daily",
+    "version": "1.0"
+  },
+  "724772709:1066283": {
+    "build": "1",
+    "bundle": "com.genshindaily.app",
+    "minos": "14.0",
+    "name": "Genshin Daily",
+    "version": "1.0"
+  },
+  "724792054:1066284": {
+    "build": "1",
+    "bundle": "com.genshindaily.app",
+    "minos": "14.0",
+    "name": "Genshin Daily",
+    "version": "1.0"
+  },
+  "725017072:1066283": {
+    "build": "1",
+    "bundle": "com.genshindaily.app",
+    "minos": "14.0",
+    "name": "Genshin Daily",
+    "version": "1.0"
+  },
+  "725076163:1066906": {
+    "build": "1",
+    "bundle": "com.genshindaily.app",
+    "minos": "14.0",
+    "name": "Genshin Daily",
+    "version": "1.0"
+  },
+  "763414215:1067497": {
+    "build": "1",
+    "bundle": "com.travelersguide.app",
+    "minos": "14.0",
+    "name": "Traveler's Guide",
+    "version": "1.0"
+  },
+  "763523032:1067495": {
+    "build": "1",
+    "bundle": "com.travelersguide.app",
+    "minos": "14.0",
+    "name": "Traveler's Guide",
+    "version": "1.0"
+  },
+  "763887226:1067513": {
+    "build": "1",
+    "bundle": "com.travelersguide.app",
+    "minos": "14.0",
+    "name": "Traveler's Guide",
+    "version": "1.0"
+  },
+  "763900519:1067594": {
+    "build": "1",
+    "bundle": "com.travelersguide.app",
+    "minos": "14.0",
+    "name": "Traveler's Guide",
+    "version": "1.0"
+  },
+  "784921800:233154": {
+    "build": "1",
+    "bundle": "dev.elder.mainmenu",
+    "minos": "17.0",
+    "name": "Main Menu",
+    "version": "1.0"
+  }
+}
