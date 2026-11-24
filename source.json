@@ -21,6 +21,15 @@
       "beta": false,
       "versions": [
         {
+          "version": "1.2.2",
+          "buildVersion": "22",
+          "date": "2026-11-24",
+          "localizedDescription": "## Main Menu 1.2.2\n\nA controller-first game launcher for iPhone, built for landscape.\n\n### What's new in 1.2.2\n- **Touch controls.** Tap a game to launch it. Press and hold a game (on Home or in My games) for a menu with Launch, Edit and Remove.\n\n### Also in 1.2.1\n- **Shortcut setup guide** in Settings, with a one-tap install of the shared `Main Menu Launch` Shortcut, a button to build it yourself, and a test button.\n- The App Store search in the Library now shows what it is doing (searching, number of results, or an error).\n\n### What's new since 1.1\n- **Console-style home.** A single row of g",
+          "downloadURL": "https://github.com/Elderflowa/main-menu/releases/download/v1.2.2/MainMenu.ipa",
+          "size": 271785,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.2.1",
           "buildVersion": "19",
           "date": "2026-11-24",
@@ -39,11 +48,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "1.2.1",
+      "version": "1.2.2",
       "versionDate": "2026-11-24",
-      "versionDescription": "## Main Menu 1.2.1\n\nA controller-first game launcher for iPhone, built for landscape.\n\n### What's new in 1.2.1\n- **Shortcut setup guide** in Settings, with a one-tap install of the shared `Main Menu Launch` Shortcut, a button to build it yourself, and a test button.\n- The App Store search in the Library now shows what it is doing (searching, number of results, or an error).\n\n### What's new since 1.1\n- **Console-style home.** A single row of game tiles, big poster art, and the selected game's name and launch method underneath.\n- **Game art from SteamGridDB.** Paste a free API key in Settings an",
-      "downloadURL": "https://github.com/Elderflowa/main-menu/releases/download/v1.2.1/MainMenu.ipa",
-      "size": 267545
+      "versionDescription": "## Main Menu 1.2.2\n\nA controller-first game launcher for iPhone, built for landscape.\n\n### What's new in 1.2.2\n- **Touch controls.** Tap a game to launch it. Press and hold a game (on Home or in My games) for a menu with Launch, Edit and Remove.\n\n### Also in 1.2.1\n- **Shortcut setup guide** in Settings, with a one-tap install of the shared `Main Menu Launch` Shortcut, a button to build it yourself, and a test button.\n- The App Store search in the Library now shows what it is doing (searching, number of results, or an error).\n\n### What's new since 1.1\n- **Console-style home.** A single row of g",
+      "downloadURL": "https://github.com/Elderflowa/main-menu/releases/download/v1.2.2/MainMenu.ipa",
+      "size": 271785
     },
     {
       "name": "Traveler's Guide",
