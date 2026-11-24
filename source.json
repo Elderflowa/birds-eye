@@ -87,17 +87,17 @@
         {
           "version": "1.0",
           "buildVersion": "1",
-          "date": "2026-11-18",
-          "localizedDescription": "Fixed bidirectional test connection between desktop and phone",
-          "downloadURL": "https://github.com/Elderflowa/GenshinDaily/releases/download/v1.3.4/TravelersGuide-v1.3.4.ipa",
+          "date": "2026-11-24",
+          "localizedDescription": "App renamed, auto-start fixed, versioned artifacts",
+          "downloadURL": "https://github.com/Elderflowa/GenshinDaily/releases/download/v1.3.0/TravelersGuide-v1.3.0.ipa",
           "size": 1067594,
           "minOSVersion": "14.0"
         }
       ],
       "version": "1.0",
-      "versionDate": "2026-11-18",
-      "versionDescription": "Fixed bidirectional test connection between desktop and phone",
-      "downloadURL": "https://github.com/Elderflowa/GenshinDaily/releases/download/v1.3.4/TravelersGuide-v1.3.4.ipa",
+      "versionDate": "2026-11-24",
+      "versionDescription": "App renamed, auto-start fixed, versioned artifacts",
+      "downloadURL": "https://github.com/Elderflowa/GenshinDaily/releases/download/v1.3.0/TravelersGuide-v1.3.0.ipa",
       "size": 1067594
     }
   ],
