@@ -103,5 +103,12 @@
     "minos": "17.0",
     "name": "Main Menu",
     "version": "1.3.0"
+  },
+  "786970983:274323": {
+    "build": "29",
+    "bundle": "dev.elder.mainmenu",
+    "minos": "17.0",
+    "name": "Main Menu",
+    "version": "1.3.1"
   }
 }

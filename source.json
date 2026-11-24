@@ -21,6 +21,15 @@
       "beta": false,
       "versions": [
         {
+          "version": "1.3.1",
+          "buildVersion": "29",
+          "date": "2026-11-24",
+          "localizedDescription": "## Main Menu 1.3.1\n\nA controller-first game launcher for iPhone, built for landscape.\n\n### What's new in 1.3.1\n- Home tiles no longer slide under the sidebar, and the small caption under the game title is gone.\n\n### Also in 1.3.0\n- **Find URL schemes on this phone.** In a game's editor, tap the button to check a list of likely schemes (Hollow Knight, Balatro, Riot, HoYoverse and more) and see which ones your installed apps answer to. Tap one to use it, then Test launch. This gives launching without the Shortcut when a game has a hidden scheme.\n\n### Also in 1.2.3\n- **Art you pick by hand now st",
+          "downloadURL": "https://github.com/Elderflowa/main-menu/releases/download/v1.3.1/MainMenu.ipa",
+          "size": 274323,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.3.0",
           "buildVersion": "26",
           "date": "2026-11-24",
@@ -55,22 +64,13 @@
           "downloadURL": "https://github.com/Elderflowa/main-menu/releases/download/v1.2.1/MainMenu.ipa",
           "size": 267545,
           "minOSVersion": "17.0"
-        },
-        {
-          "version": "1.2.0",
-          "buildVersion": "15",
-          "date": "2026-11-23",
-          "localizedDescription": "## Main Menu 1.2.0\n\nA controller-first game launcher for iPhone, built for landscape.\n\n### What's new\n- **Console-style home.** A single row of game tiles, big poster art, and the selected game's name and launch method underneath.\n- **Game art from SteamGridDB.** Paste a free API key in Settings and posters are fetched automatically. In a game's editor, \"Choose game art\" lets you search a title and pick a different poster.\n- **Search the whole App Store** from the Library to add any game, not only the ones in the URL scheme list.\n- **External display.** Plug the phone into a monitor (USB-C or ",
-          "downloadURL": "https://github.com/Elderflowa/main-menu/releases/download/v1.2.0/MainMenu.ipa",
-          "size": 257895,
-          "minOSVersion": "17.0"
         }
       ],
-      "version": "1.3.0",
+      "version": "1.3.1",
       "versionDate": "2026-11-24",
-      "versionDescription": "## Main Menu 1.3.0\n\nA controller-first game launcher for iPhone, built for landscape.\n\n### What's new in 1.3.0\n- **Find URL schemes on this phone.** In a game's editor, tap the button to check a list of likely schemes (Hollow Knight, Balatro, Riot, HoYoverse and more) and see which ones your installed apps answer to. Tap one to use it, then Test launch. This gives launching without the Shortcut when a game has a hidden scheme.\n\n### Also in 1.2.3\n- **Art you pick by hand now stays.** Automatic art fetching (including \"Fetch game art\" and saving the API key) never overwrites it. Choose \"Use auto",
-      "downloadURL": "https://github.com/Elderflowa/main-menu/releases/download/v1.3.0/MainMenu.ipa",
-      "size": 275926
+      "versionDescription": "## Main Menu 1.3.1\n\nA controller-first game launcher for iPhone, built for landscape.\n\n### What's new in 1.3.1\n- Home tiles no longer slide under the sidebar, and the small caption under the game title is gone.\n\n### Also in 1.3.0\n- **Find URL schemes on this phone.** In a game's editor, tap the button to check a list of likely schemes (Hollow Knight, Balatro, Riot, HoYoverse and more) and see which ones your installed apps answer to. Tap one to use it, then Test launch. This gives launching without the Shortcut when a game has a hidden scheme.\n\n### Also in 1.2.3\n- **Art you pick by hand now st",
+      "downloadURL": "https://github.com/Elderflowa/main-menu/releases/download/v1.3.1/MainMenu.ipa",
+      "size": 274323
     },
     {
       "name": "Traveler's Guide",
