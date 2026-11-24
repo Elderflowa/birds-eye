@@ -21,6 +21,15 @@
       "beta": false,
       "versions": [
         {
+          "version": "1.3.0",
+          "buildVersion": "26",
+          "date": "2026-11-24",
+          "localizedDescription": "## Main Menu 1.3.0\n\nA controller-first game launcher for iPhone, built for landscape.\n\n### What's new in 1.3.0\n- **Find URL schemes on this phone.** In a game's editor, tap the button to check a list of likely schemes (Hollow Knight, Balatro, Riot, HoYoverse and more) and see which ones your installed apps answer to. Tap one to use it, then Test launch. This gives launching without the Shortcut when a game has a hidden scheme.\n\n### Also in 1.2.3\n- **Art you pick by hand now stays.** Automatic art fetching (including \"Fetch game art\" and saving the API key) never overwrites it. Choose \"Use auto",
+          "downloadURL": "https://github.com/Elderflowa/main-menu/releases/download/v1.3.0/MainMenu.ipa",
+          "size": 275926,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.2.3",
           "buildVersion": "24",
           "date": "2026-11-24",
@@ -57,11 +66,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "1.2.3",
+      "version": "1.3.0",
       "versionDate": "2026-11-24",
-      "versionDescription": "## Main Menu 1.2.3\n\nA controller-first game launcher for iPhone, built for landscape.\n\n### What's new in 1.2.3\n- **Art you pick by hand now stays.** Automatic art fetching (including \"Fetch game art\" and saving the API key) never overwrites it. Choose \"Use automatic art\" in the picker to go back.\n- **My games tab fixed.** It no longer shows catalog rows.\n\n### Also in 1.2.2\n- **Touch controls.** Tap a game to launch it. Press and hold a game (on Home or in My games) for a menu with Launch, Edit and Remove.\n\n### Also in 1.2.1\n- **Shortcut setup guide** in Settings, with a one-tap install of the ",
-      "downloadURL": "https://github.com/Elderflowa/main-menu/releases/download/v1.2.3/MainMenu.ipa",
-      "size": 272970
+      "versionDescription": "## Main Menu 1.3.0\n\nA controller-first game launcher for iPhone, built for landscape.\n\n### What's new in 1.3.0\n- **Find URL schemes on this phone.** In a game's editor, tap the button to check a list of likely schemes (Hollow Knight, Balatro, Riot, HoYoverse and more) and see which ones your installed apps answer to. Tap one to use it, then Test launch. This gives launching without the Shortcut when a game has a hidden scheme.\n\n### Also in 1.2.3\n- **Art you pick by hand now stays.** Automatic art fetching (including \"Fetch game art\" and saving the API key) never overwrites it. Choose \"Use auto",
+      "downloadURL": "https://github.com/Elderflowa/main-menu/releases/download/v1.3.0/MainMenu.ipa",
+      "size": 275926
     },
     {
       "name": "Traveler's Guide",
